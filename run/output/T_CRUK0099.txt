@@ -1,0 +1,146 @@
+# 6 out of 6 mutations
+24 #trees
+5 #edges, tree 1
+v1 v3
+v0 v5
+v0 v4
+v0 v2
+v0 v1
+5 #edges, tree 2
+v0 v5
+v0 v4
+v0 v3
+v0 v2
+v0 v1
+5 #edges, tree 3
+v2 v4
+v1 v3
+v0 v5
+v0 v2
+v0 v1
+5 #edges, tree 4
+v1 v4
+v1 v3
+v0 v5
+v0 v2
+v0 v1
+5 #edges, tree 5
+v2 v4
+v0 v5
+v0 v3
+v0 v2
+v0 v1
+5 #edges, tree 6
+v1 v4
+v0 v5
+v0 v3
+v0 v2
+v0 v1
+5 #edges, tree 7
+v1 v5
+v1 v4
+v1 v3
+v0 v2
+v0 v1
+5 #edges, tree 8
+v1 v5
+v1 v4
+v0 v3
+v0 v2
+v0 v1
+5 #edges, tree 9
+v2 v4
+v1 v5
+v1 v3
+v0 v2
+v0 v1
+5 #edges, tree 10
+v1 v5
+v1 v3
+v0 v4
+v0 v2
+v0 v1
+5 #edges, tree 11
+v1 v5
+v0 v4
+v0 v3
+v0 v2
+v0 v1
+5 #edges, tree 12
+v2 v4
+v1 v5
+v0 v3
+v0 v2
+v0 v1
+5 #edges, tree 13
+v1 v2
+v0 v5
+v0 v4
+v0 v3
+v0 v1
+5 #edges, tree 14
+v1 v3
+v1 v2
+v0 v5
+v0 v4
+v0 v1
+5 #edges, tree 15
+v1 v5
+v1 v3
+v1 v2
+v0 v4
+v0 v1
+5 #edges, tree 16
+v1 v5
+v1 v2
+v0 v4
+v0 v3
+v0 v1
+5 #edges, tree 17
+v1 v4
+v1 v2
+v0 v5
+v0 v3
+v0 v1
+5 #edges, tree 18
+v2 v4
+v1 v2
+v0 v5
+v0 v3
+v0 v1
+5 #edges, tree 19
+v1 v4
+v1 v3
+v1 v2
+v0 v5
+v0 v1
+5 #edges, tree 20
+v2 v4
+v1 v3
+v1 v2
+v0 v5
+v0 v1
+5 #edges, tree 21
+v2 v4
+v1 v5
+v1 v2
+v0 v3
+v0 v1
+5 #edges, tree 22
+v1 v5
+v1 v4
+v1 v2
+v0 v3
+v0 v1
+5 #edges, tree 23
+v1 v5
+v1 v4
+v1 v3
+v1 v2
+v0 v1
+5 #edges, tree 24
+v2 v4
+v1 v5
+v1 v3
+v1 v2
+v0 v1
