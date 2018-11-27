@@ -5,8 +5,8 @@ import oncolib
 import glob
 
 finished = [filename.lstrip("output/T_").rstrip(".txt") for filename in glob.glob("output/T_*.txt")]
-exclude = open("excluded.txt");
-excluded = [line.rstrip('\n') for line in exclude]
+#exclude = open("excluded.txt");
+#excluded = [line.rstrip('\n') for line in exclude]
 
 for filename in glob.glob("input/F_*.tsv"):
 	ind=filename.lstrip("input/F_").rstrip("*.tsv");

@@ -1,0 +1,14 @@
+1 #anatomical sites
+2 #samples
+5 #characters
+#sample_index	sample_label	anatomical_site_index	anatomical_site_label	character_index	character_label	f-	f+
+0	R1	0	P	0	v0	1.000000	1.000000
+0	R1	0	P	1	v1	0.121739	0.314607
+0	R1	0	P	2	v2	0.000000	0.001667
+0	R1	0	P	3	v3	0.000000	0.000000
+0	R1	0	P	4	v4	0.027737	0.064725
+1	R2	0	P	0	v0	1.000000	1.000000
+1	R2	0	P	1	v1	0.087156	0.373643
+1	R2	0	P	2	v2	0.106061	0.261017
+1	R2	0	P	3	v3	0.029545	0.087542
+1	R2	0	P	4	v4	0.000000	0.000999

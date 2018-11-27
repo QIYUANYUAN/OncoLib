@@ -3,8 +3,8 @@
 3 #characters
 #sample_index	sample_label	anatomical_site_index	anatomical_site_label	character_index	character_label	f-	f+
 0	R1	0	P	0	v0	1.000000	1.000000
-0	R1	0	P	1	v1	0.167641	0.612069
-0	R1	0	P	2	v2	0.006329	0.250467
+0	R1	0	P	1	v1	0.840000	1.000000
+0	R1	0	P	2	v2	0.340000	1.000000
 1	R2	0	P	0	v0	1.000000	1.000000
-1	R2	0	P	1	v1	0.161525	0.576271
-1	R2	0	P	2	v2	0.081461	0.207650
+1	R2	0	P	1	v1	0.830000	1.000000
+1	R2	0	P	2	v2	0.320000	0.640000

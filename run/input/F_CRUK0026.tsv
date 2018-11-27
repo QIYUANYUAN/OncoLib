@@ -3,10 +3,10 @@
 4 #characters
 #sample_index	sample_label	anatomical_site_index	anatomical_site_label	character_index	character_label	f-	f+
 0	R1	0	P	0	v0	1.000000	1.000000
-0	R1	0	P	1	v1	0.037815	0.240240
-0	R1	0	P	2	v2	0.000000	0.001587
-0	R1	0	P	3	v3	0.027778	0.076271
+0	R1	0	P	1	v1	0.660000	1.000000
+0	R1	0	P	2	v2	0.000000	0.020000
+0	R1	0	P	3	v3	0.420000	1.000000
 1	R2	0	P	0	v0	1.000000	1.000000
-1	R2	0	P	1	v1	0.043103	0.280000
-1	R2	0	P	2	v2	0.032587	0.099291
+1	R2	0	P	1	v1	0.750000	1.000000
+1	R2	0	P	2	v2	0.460000	1.000000
 1	R2	0	P	3	v3	0.000000	0.000000
