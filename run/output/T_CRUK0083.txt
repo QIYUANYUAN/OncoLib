@@ -1,114 +1,6 @@
-# 9 out of 9 mutations
-22 #trees
-8 #edges, tree 1
-v5 v8
-v5 v7
-v3 v5
-v3 v4
-v1 v0
-v0 v6
-v0 v3
-v0 v2
-8 #edges, tree 2
-v6 v4
-v5 v8
-v5 v7
-v3 v5
-v1 v0
-v0 v6
-v0 v3
-v0 v2
-8 #edges, tree 3
-v5 v8
-v5 v7
-v3 v5
-v1 v0
-v0 v6
-v0 v4
-v0 v3
-v0 v2
-8 #edges, tree 4
-v6 v4
-v5 v8
-v5 v7
-v3 v6
-v3 v5
-v1 v0
-v0 v3
-v0 v2
-8 #edges, tree 5
-v5 v8
-v5 v7
-v3 v6
-v3 v5
-v1 v0
-v0 v4
-v0 v3
-v0 v2
-8 #edges, tree 6
-v5 v8
-v5 v7
-v3 v6
-v3 v5
-v3 v4
-v1 v0
-v0 v3
-v0 v2
-8 #edges, tree 7
-v5 v8
-v5 v7
-v5 v6
-v3 v5
-v1 v0
-v0 v4
-v0 v3
-v0 v2
-8 #edges, tree 8
-v8 v6
-v5 v8
-v5 v7
-v3 v5
-v1 v0
-v0 v4
-v0 v3
-v0 v2
-8 #edges, tree 9
-v5 v8
-v5 v7
-v5 v6
-v3 v5
-v3 v4
-v1 v0
-v0 v3
-v0 v2
-8 #edges, tree 10
-v8 v6
-v5 v8
-v5 v7
-v3 v5
-v3 v4
-v1 v0
-v0 v3
-v0 v2
-8 #edges, tree 11
-v5 v8
-v5 v7
-v3 v5
-v1 v4
-v1 v3
-v1 v2
-v0 v6
-v0 v1
-8 #edges, tree 12
-v5 v8
-v5 v7
-v3 v5
-v3 v4
-v1 v3
-v1 v2
-v0 v6
-v0 v1
-8 #edges, tree 13
+# 8 out of 8 mutations
+10 #trees
+7 #edges, tree 1
 v5 v8
 v5 v7
 v3 v5
@@ -116,35 +8,7 @@ v1 v6
 v1 v4
 v1 v3
 v1 v2
-v0 v1
-8 #edges, tree 14
-v5 v8
-v5 v7
-v3 v6
-v3 v5
-v1 v4
-v1 v3
-v1 v2
-v0 v1
-8 #edges, tree 15
-v5 v8
-v5 v7
-v5 v6
-v3 v5
-v1 v4
-v1 v3
-v1 v2
-v0 v1
-8 #edges, tree 16
-v8 v6
-v5 v8
-v5 v7
-v3 v5
-v1 v4
-v1 v3
-v1 v2
-v0 v1
-8 #edges, tree 17
+7 #edges, tree 2
 v6 v4
 v5 v8
 v5 v7
@@ -152,8 +16,7 @@ v3 v5
 v1 v6
 v1 v3
 v1 v2
-v0 v1
-8 #edges, tree 18
+7 #edges, tree 3
 v5 v8
 v5 v7
 v3 v5
@@ -161,26 +24,31 @@ v3 v4
 v1 v6
 v1 v3
 v1 v2
-v0 v1
-8 #edges, tree 19
+7 #edges, tree 4
 v5 v8
 v5 v7
 v3 v6
 v3 v5
-v3 v4
+v1 v4
 v1 v3
 v1 v2
-v0 v1
-8 #edges, tree 20
-v6 v4
+7 #edges, tree 5
 v5 v8
 v5 v7
-v3 v6
+v5 v6
 v3 v5
+v1 v4
 v1 v3
 v1 v2
-v0 v1
-8 #edges, tree 21
+7 #edges, tree 6
+v8 v6
+v5 v8
+v5 v7
+v3 v5
+v1 v4
+v1 v3
+v1 v2
+7 #edges, tree 7
 v5 v8
 v5 v7
 v5 v6
@@ -188,8 +56,15 @@ v3 v5
 v3 v4
 v1 v3
 v1 v2
-v0 v1
-8 #edges, tree 22
+7 #edges, tree 8
+v5 v8
+v5 v7
+v3 v6
+v3 v5
+v3 v4
+v1 v3
+v1 v2
+7 #edges, tree 9
 v8 v6
 v5 v8
 v5 v7
@@ -197,4 +72,11 @@ v3 v5
 v3 v4
 v1 v3
 v1 v2
-v0 v1
+7 #edges, tree 10
+v6 v4
+v5 v8
+v5 v7
+v3 v6
+v3 v5
+v1 v3
+v1 v2

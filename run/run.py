@@ -13,8 +13,5 @@ for filename in glob.glob("input/F_*.tsv"):
 	if ind in finished:
 		print "finished %s, skipped"%ind;
 		continue;
-	if ind in excluded:
-		print "%s excluded from running, skipped"%ind;
-		continue;
 	print "running", ind
 	oncolib.enumerate(filename,"output/T_%s.txt"%ind,True,1,-1,False)

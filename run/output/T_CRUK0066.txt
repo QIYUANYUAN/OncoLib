@@ -1,69 +1,6 @@
-# 9 out of 9 mutations
-10 #trees
-8 #edges, tree 1
-v5 v7
-v4 v6
-v3 v5
-v2 v8
-v1 v0
-v0 v4
-v0 v3
-v0 v2
-8 #edges, tree 2
-v5 v7
-v3 v6
-v3 v5
-v2 v8
-v1 v0
-v0 v4
-v0 v3
-v0 v2
-8 #edges, tree 3
-v5 v7
-v3 v5
-v3 v4
-v2 v8
-v1 v0
-v0 v6
-v0 v3
-v0 v2
-8 #edges, tree 4
-v5 v7
-v3 v6
-v3 v5
-v3 v4
-v2 v8
-v1 v0
-v0 v3
-v0 v2
-8 #edges, tree 5
-v5 v7
-v4 v6
-v3 v5
-v3 v4
-v2 v8
-v1 v0
-v0 v3
-v0 v2
-8 #edges, tree 6
-v5 v7
-v3 v6
-v3 v5
-v3 v4
-v2 v8
-v1 v3
-v1 v2
-v0 v1
-8 #edges, tree 7
-v5 v7
-v3 v6
-v3 v5
-v2 v8
-v1 v4
-v1 v3
-v1 v2
-v0 v1
-8 #edges, tree 8
+# 8 out of 8 mutations
+5 #trees
+7 #edges, tree 1
 v5 v7
 v3 v5
 v3 v4
@@ -71,8 +8,15 @@ v2 v8
 v1 v6
 v1 v3
 v1 v2
-v0 v1
-8 #edges, tree 9
+7 #edges, tree 2
+v5 v7
+v3 v6
+v3 v5
+v3 v4
+v2 v8
+v1 v3
+v1 v2
+7 #edges, tree 3
 v5 v7
 v4 v6
 v3 v5
@@ -80,8 +24,15 @@ v3 v4
 v2 v8
 v1 v3
 v1 v2
-v0 v1
-8 #edges, tree 10
+7 #edges, tree 4
+v5 v7
+v3 v6
+v3 v5
+v2 v8
+v1 v4
+v1 v3
+v1 v2
+7 #edges, tree 5
 v5 v7
 v4 v6
 v3 v5
@@ -89,4 +40,3 @@ v2 v8
 v1 v4
 v1 v3
 v1 v2
-v0 v1

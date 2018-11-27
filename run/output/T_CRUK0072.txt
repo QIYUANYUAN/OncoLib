@@ -1,44 +1,20 @@
-# 7 out of 7 mutations
-6 #trees
-6 #edges, tree 1
-v6 v5
-v4 v6
-v4 v3
-v4 v2
-v1 v0
-v0 v4
-6 #edges, tree 2
-v6 v5
-v6 v2
-v4 v6
-v4 v3
-v1 v0
-v0 v4
-6 #edges, tree 3
-v6 v5
-v4 v6
-v4 v3
-v1 v0
-v0 v4
-v0 v2
-6 #edges, tree 4
+# 6 out of 6 mutations
+3 #trees
+5 #edges, tree 1
 v6 v5
 v4 v6
 v4 v3
 v1 v4
 v1 v2
-v0 v1
-6 #edges, tree 5
-v6 v5
-v6 v2
-v4 v6
-v4 v3
-v1 v4
-v0 v1
-6 #edges, tree 6
+5 #edges, tree 2
 v6 v5
 v4 v6
 v4 v3
 v4 v2
 v1 v4
-v0 v1
+5 #edges, tree 3
+v6 v5
+v6 v2
+v4 v6
+v4 v3
+v1 v4
